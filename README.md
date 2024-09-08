@@ -1,12 +1,12 @@
 # BCE
 
-**Valószínűségszámítás - PSz**<br />
+### **Valószínűségszámítás - PSz**<br />
 
 Tárgyleírás, információk  <br />
 Tallós Péter jegyzetei: előadás, gyakorlat   <br />
 
 
-**Valószínűségszámítás - GPME**  
+### **Valószínűségszámítás - GPME**  
 
 Tárgyleírás, információk  <br />
 Medvegyev Péter tankönyve  <br />
