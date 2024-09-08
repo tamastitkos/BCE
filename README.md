@@ -1,6 +1,6 @@
 # BCE
 
-### **Valószínűségszámítás - PSz**<br />
+### **Valószínűségszámítás - PSz**
 
 Tárgyleírás, információk  <br />
 Tallos Péter jegyzetei: előadás, gyakorlat   <br />
