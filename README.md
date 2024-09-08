@@ -1,7 +1,7 @@
 <img src="https://www.renyi.hu/%7Etitkos/vt.jpg" alt="TT" width="400">
 
 
-### **Valószínűségszámítás - PSz**
+### **Valószínűségszámítás - PSz [MSMT027NMBB]**
 
 Előadás:  <br />
 H: 17:20 - 18:50 (E.0.I.ea.)  <br />
@@ -10,7 +10,7 @@ Gyakorlatok időpontja:  <br />
 K: 13:40 - 15:10 (C 105)   <br />
 K: 15:30 - 17:00 (C 105)  <br />
 
-Tárgyleírás, információk  <br />
+[Tárgyleírás, információk](https://www.renyi.hu/~titkos/PSZ-Targyleiras.pdf) <br />
 Tallos Péter jegyzetei:   <br />
 [előadás](http://web.uni-corvinus.hu/~tallos/Mat.pdf) (13-24 Fejezetek)   <br />
 [gyakorlat](http://web.uni-corvinus.hu/~tallos/AK_Valszam_Feladatok.pdf)   <br />
@@ -18,7 +18,7 @@ Tallos Péter jegyzetei:   <br />
 
    <br />
 
-### **Valószínűségszámítás - GPME**  
+### **Valószínűségszámítás - GPME [ADIN088NMOB]**  
 
 Előadás:  <br />
 H: 13:40 - 15:10 (C 102)  <br />
