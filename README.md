@@ -1,14 +1,14 @@
 # BCE
 
-**Valószínűségszámítás - PSz**
+**Valószínűségszámítás - PSz**<br />
 
-Tárgyleírás, információk  
-Tallós Péter jegyzetei: előadás, gyakorlat   
+Tárgyleírás, információk  <br />
+Tallós Péter jegyzetei: előadás, gyakorlat   <br />
 
 
 **Valószínűségszámítás - GPME**  
 
-Tárgyleírás, információk  
-Medvegyev Péter tankönyve  
-Minta zárthelyi: 1, 2  
-Feladatsorok: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10  
+Tárgyleírás, információk  <br />
+Medvegyev Péter tankönyve  <br />
+Minta zárthelyi: 1, 2  <br />
+Feladatsorok: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10  <br />
