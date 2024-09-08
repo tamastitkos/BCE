@@ -3,7 +3,7 @@
 ### **Valószínűségszámítás - PSz**<br />
 
 Tárgyleírás, információk  <br />
-Tallós Péter jegyzetei: előadás, gyakorlat   <br />
+Tallos Péter jegyzetei: előadás, gyakorlat   <br />
 [Teams link online órákhoz, konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
    <br />
