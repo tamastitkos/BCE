@@ -1,4 +1,6 @@
-# BCE
+# BCE 2024/25/1
+<img src="https://www.renyi.hu/%7Etitkos/vt.jpg" alt="TT" width="320">
+
 
 ### **Valószínűségszámítás - PSz**
 
