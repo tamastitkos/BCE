@@ -1,4 +1,4 @@
-<img src="https://www.renyi.hu/%7Etitkos/vt.jpg" alt="TT" width="500">
+<img src="https://www.renyi.hu/%7Etitkos/vt.jpg" alt="TT" width="400">
 
 
 ### **Valószínűségszámítás - PSz**
