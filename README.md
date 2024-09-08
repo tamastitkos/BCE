@@ -24,7 +24,7 @@ Budapesti Corvinus Egyetem, Matematika Tanszék<br />
 H-1093 Budapest, Fővám tér 13-15.<br />
 Sóház, S229a<br />
 tamas.titkos@uni-corvinus.hu<br />
-https://tamastitkos.github.io/math/<br />
+[https://tamastitkos.github.io/math/](https://tamastitkos.github.io/math/)<br />
 
 
 
