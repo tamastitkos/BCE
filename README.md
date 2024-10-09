@@ -4,7 +4,7 @@
 ### **Valószínűségszámítás - PSz [MSMT027NMBB]**
 
 Előadás:  <br />
-H: 17:20 - 18:50 (E.0.I.ea.)  <br />
+H: 17:20 - 18:50 (Sóház EA3)  <br />
 
 Gyakorlatok időpontja:  <br />
 K: 13:40 - 15:10 (C 105)   <br />
@@ -24,8 +24,8 @@ Előadás:  <br />
 H: 13:40 - 15:10 (C 102)  <br />
 
 Gyakorlatok időpontja:  <br />
-K: 08:00 - 09:30 (C 108)   <br />
-K: 09:50 - 11:20 (C 108)  <br />
+K: 08:00 - 09:30 (Sóház EA1)   <br />
+K: 09:50 - 11:20 (Sóház EA1)  <br />
 
 [Tárgyleírás, információk](https://www.renyi.hu/~titkos/GPME-targyleiras.pdf)  <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
