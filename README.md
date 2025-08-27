@@ -35,7 +35,9 @@ H: 09:50 - 11:20 (Sóház EA1)  <br />
 
 
 ## **Corvinus AÉM:**
-   2024-2027
+   
+[2024-2027](https://www.renyi.hu/~titkos/AEM.pdf)
+   
 
    <br />
 
