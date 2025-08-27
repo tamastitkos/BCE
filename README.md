@@ -12,7 +12,7 @@ Gyakorlatok időpontja:  <br />
 Cs: 08:00 - 09:30 (C 206)   <br /> 
 Cs: 09:50 - 11:20 (C 206)  <br />
 
-[Tárgyleírás, információk](https://www.renyi.hu/~titkos/PSZV-Targyleiras.pdf) <br />
+[Tárgyleírás, információk](https://drive.google.com/file/d/1G8ZbpNJPGPfM5A30WUWLDQTrJ6D9vzUK/view?usp=sharing) <br />
 [Előadáskövető jegyzet](https://www.renyi.hu/~titkos/PSZV-jegyzet.pdf)  (Utolsó frissítés: Augusztus 27.) <br />
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
