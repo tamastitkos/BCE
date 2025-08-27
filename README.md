@@ -27,7 +27,7 @@ Gyakorlatok időpontja:  <br />
 H: 08:00 - 09:30 (Sóház EA1)   <br />
 H: 09:50 - 11:20 (Sóház EA1)  <br />
 
-[Tárgyleírás, információk, feladatok](https://www.renyi.hu/~titkos/GV2025.pdf)  <br />
+[Tárgyleírás, információk, feladatok](https://drive.google.com/file/d/1eZR_07cwyOKVogwtgyR16taufjpBp2SD/view?usp=drive_link)  <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
@@ -36,7 +36,7 @@ H: 09:50 - 11:20 (Sóház EA1)  <br />
 
 ## **Corvinus AÉM:**
    
-[2024-2027](https://www.renyi.hu/~titkos/AEM.pdf)
+[2024-2027](https://drive.google.com/file/d/1jQnZvw3pstKpwpOwe5R3awDD1oP9-7Hb/view?usp=drive_link)
    
 
    <br />
