@@ -53,6 +53,6 @@ tamas.titkos@uni-corvinus.hu<br />
 
 Fogadóóra: Cs 15:30 - 17:00, S229a  <br />
 A fogadóóra a szorgalmi időszakra vonatkozik.   <br />
-(A részvételi szándékot legkésőbb hétfő estig e-mailben jelezni kell.)
+(A részvételi szándékot legkésőbb szerda estig e-mailben jelezni kell.)
 
 
