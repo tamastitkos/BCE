@@ -5,7 +5,7 @@
 
 ### **1. Valószínűségszámítás - PSz [MSMT027NMBB]**
 
-Előadás:  <br />
+Előadás időpontja:  <br />
 H: 17:20 - 18:50 (Sóház EA3)  <br />
 
 Gyakorlatok időpontja:  <br />
@@ -20,7 +20,7 @@ Cs: 09:50 - 11:20 (C 206)  <br />
 
 ### **2. Valószínűségszámítás - GPME [ADIN088NMOB]**  
 
-Előadás:  <br />
+Előadás időpontja:  <br />
 H: 11:40 - 13:10 (Sóház EA2)  <br />
 
 Gyakorlatok időpontja:  <br />
