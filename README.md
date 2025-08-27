@@ -1,9 +1,9 @@
 <img src="https://www.renyi.hu/%7Etitkos/vt.jpg" alt="TT" width="400">
 
-### **Oktatás**
+## **Oktatás:**
 
 
-### **Valószínűségszámítás - PSz [MSMT027NMBB]**
+### **1. Valószínűségszámítás - PSz [MSMT027NMBB]**
 
 Előadás:  <br />
 H: 17:20 - 18:50 (Sóház EA3)  <br />
@@ -18,7 +18,7 @@ Cs: 09:50 - 11:20 (C 206)  <br />
 
    <br />
 
-### **Valószínűségszámítás - GPME [ADIN088NMOB]**  
+### **2. Valószínűségszámítás - GPME [ADIN088NMOB]**  
 
 Előadás:  <br />
 H: 11:40 - 13:10 (Sóház EA2)  <br />
@@ -32,8 +32,17 @@ H: 09:50 - 11:20 (Sóház EA1)  <br />
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
    <br />
+
+
+## **Corvinus AÉM:**
+   2024-2027
+
+   <br />
+
+
+
    
-### **Elérhetőségek:**
+## **Elérhetőségek:**
 Budapesti Corvinus Egyetem, Matematika Tanszék <br />
 H-1093 Budapest, Fővám tér 13-15.<br />
 Sóház, S229a<br />
