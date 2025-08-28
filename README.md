@@ -52,8 +52,8 @@ Sóház, S229a<br />
 tamas.titkos@uni-corvinus.hu<br />
 [https://tamastitkos.github.io/math/](https://tamastitkos.github.io/math/)<br />
 
-Fogadóóra: Cs 15:30 - 16:30, S229a  <br />
+Fogadóóra: H 16:00 - 17:00, S229a  <br />
 A fogadóóra a szorgalmi időszakra vonatkozik.   <br />
-(A részvételi szándékot legkésőbb szerda estig e-mailben jelezni kell.)
+(A részvételi szándékot legkésőbb vasárnap éjfélig e-mailben jelezni kell.)
 
 
