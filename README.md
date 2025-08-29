@@ -31,8 +31,8 @@ H: 08:00 - 09:30 (Sóház EA1)   <br />
 H: 09:50 - 11:20 (Sóház EA1)  <br />
 
 Demonstrátorok:   <br />
-Csernák Szilvia   <br />
-Szirák Szabolcs  <br />
+Csernák Szilvia (e-mail: szilvia.csernak@stud.uni-corvinus.hu) <br />
+Szirák Szabolcs (e-mail: szabolcs.szirak@stud.uni-corvinus.hu) <br />
 
 [Tárgyleírás, információk, feladatok](https://drive.google.com/file/d/1eZR_07cwyOKVogwtgyR16taufjpBp2SD/view?usp=drive_link)  <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
