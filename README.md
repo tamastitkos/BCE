@@ -43,7 +43,7 @@ Szirák Szabolcs (e-mail: szabolcs.szirak@stud.uni-corvinus.hu) <br />
 
 ## **Corvinus AÉM:**
    
-[2024-2027](https://drive.google.com/file/d/1jQnZvw3pstKpwpOwe5R3awDD1oP9-7Hb/view?usp=sharing) (Utolsó frissítés: 2025. szeptember 20.)
+[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. szeptember 20.)
 
    <br />
 
