@@ -13,7 +13,7 @@ Cs: 08:00 - 09:30 (C 206)   <br />
 Cs: 09:50 - 11:20 (C 206)  <br />
 
 [Tárgyleírás, információk](https://drive.google.com/file/d/1G8ZbpNJPGPfM5A30WUWLDQTrJ6D9vzUK/view?usp=sharing) <br />
-[Előadáskövető jegyzet](https://drive.google.com/file/d/1CuD1buCTOiRL3dFKseM7qfw7dhx9Xksk/view?usp=sharing)  (Utolsó frissítés: 2025. október 12.) <br />
+[Előadáskövető jegyzet](https://drive.google.com/file/d/1CuD1buCTOiRL3dFKseM7qfw7dhx9Xksk/view?usp=sharing)  (Utolsó frissítés: 2025. november 1.) <br />
 [Minta zh](https://drive.google.com/file/d/1o9_JXWapCk1IxjpMeTv35x-QCfQVJXBN/view?usp=sharing) <br />
 [Minta vizsga](https://drive.google.com/file/d/1pOWmU7-1QtUkgnssc72DSmGGEG_NKaYt/view?usp=sharing) <br />
 [Tallos Péter jegyzete](http://web.uni-corvinus.hu/~tallos/Mat.pdf) (13-24 Fejezetek) <br />
@@ -45,7 +45,7 @@ Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 
 ## **Corvinus AÉM:**
    
-[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. október 19.)
+[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. november 1.)
 
    <br />
 
