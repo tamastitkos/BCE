@@ -18,6 +18,7 @@ Cs: 09:50 - 11:20 (C 206)  <br />
 [Minta vizsga](https://drive.google.com/file/d/1pOWmU7-1QtUkgnssc72DSmGGEG_NKaYt/view?usp=sharing) <br />
 [Tallos Péter jegyzete](http://web.uni-corvinus.hu/~tallos/Mat.pdf) (13-24 Fejezetek) <br />
 [Deriválás/integrálás gyakorló feladatok (6-9-10 Fejezetek)](https://drive.google.com/file/d/19kFgl6P9-N54bnmDp3469reHYsc2Dg0N/view?usp=sharing) <br />
+[Egy jó videó a centrális határeloszlás-tételről](https://www.youtube.com/watch?v=zeJD6dqJ5lo&t=47s) <br />
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
    <br />
@@ -38,6 +39,9 @@ Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 
 [Tárgyleírás, információk, feladatok](https://drive.google.com/file/d/1eZR_07cwyOKVogwtgyR16taufjpBp2SD/view?usp=drive_link)  (Utolsó frissítés: 2025. november 8. - Vizsgaidőpontok, helyszín) <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
+[Egy jó videó a centrális határeloszlás-tételről](https://www.youtube.com/watch?v=zeJD6dqJ5lo&t=47s) <br />
+[Egy jó videó a konvolúcióról](https://www.youtube.com/watch?v=KuXjwB4LzSA) <br />
+[Egy jó videó a Fourier transzformációról](https://www.youtube.com/watch?v=spUNpyF58BY)
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
    <br />
