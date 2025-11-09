@@ -41,7 +41,7 @@ Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
 [Egy jó videó a centrális határeloszlás-tételről](https://www.youtube.com/watch?v=zeJD6dqJ5lo&t=47s) <br />
 [Egy jó videó a konvolúcióról](https://www.youtube.com/watch?v=KuXjwB4LzSA) <br />
-[Egy jó videó a Fourier transzformációról](https://www.youtube.com/watch?v=spUNpyF58BY)
+[Egy jó videó a Fourier transzformációról](https://www.youtube.com/watch?v=spUNpyF58BY) <br />
 [Teams link online konzultációkhoz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhOTI4NTYtOTViZi00N2JjLWEyODUtMWUxNTc2ODNjYzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22f8dd01b8-7276-4ace-aa9d-5767f0f4a5af%22%2c%22Oid%22%3a%22e8354c55-1e97-4848-919c-4fee8f418b8f%22%7d)
 
    <br />
