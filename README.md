@@ -49,7 +49,7 @@ Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 
 ## **Corvinus AÉM:**
    
-[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. november 8.)
+[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. november 12.)
 
    <br />
 
