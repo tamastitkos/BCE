@@ -12,8 +12,8 @@ Gyakorlatok időpontja:  <br />
 Cs: 08:00 - 09:30 (C 206)   <br /> 
 Cs: 09:50 - 11:20 (C 206)  <br />
 
-[Tárgyleírás, információk](https://drive.google.com/file/d/1G8ZbpNJPGPfM5A30WUWLDQTrJ6D9vzUK/view?usp=sharing) (Utolsó frissítés: 2025. november 12. - Pót zh helyszíne és időpontja) <br />
-[Előadáskövető jegyzet](https://drive.google.com/file/d/1CuD1buCTOiRL3dFKseM7qfw7dhx9Xksk/view?usp=sharing)  (Utolsó frissítés: 2025. november 12.) <br />
+[Tárgyleírás, információk](https://drive.google.com/file/d/1G8ZbpNJPGPfM5A30WUWLDQTrJ6D9vzUK/view?usp=sharing) <br />
+[Előadáskövető jegyzet](https://drive.google.com/file/d/1CuD1buCTOiRL3dFKseM7qfw7dhx9Xksk/view?usp=sharing)  (Utolsó frissítés: 2025. november 26.) <br />
 [Minta zh](https://drive.google.com/file/d/1o9_JXWapCk1IxjpMeTv35x-QCfQVJXBN/view?usp=sharing) <br />
 [Minta vizsga](https://drive.google.com/file/d/1pOWmU7-1QtUkgnssc72DSmGGEG_NKaYt/view?usp=sharing) <br />
 [Tallos Péter jegyzete](http://web.uni-corvinus.hu/~tallos/Mat.pdf) (13-24 Fejezetek) <br />
@@ -37,7 +37,7 @@ Csernák Szilvia (e-mail: szilvia.csernak@stud.uni-corvinus.hu) <br />
 Szirák Szabolcs (e-mail: szabolcs.szirak@stud.uni-corvinus.hu) <br />
 Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 
-[Tárgyleírás, információk, feladatok](https://drive.google.com/file/d/1eZR_07cwyOKVogwtgyR16taufjpBp2SD/view?usp=drive_link)  (Utolsó frissítés: 2025. november 12. - Pót zh helyszíne) <br />
+[Tárgyleírás, információk, feladatok](https://drive.google.com/file/d/1eZR_07cwyOKVogwtgyR16taufjpBp2SD/view?usp=drive_link) <br />
 [Medvegyev Péter tankönyve](https://unipub.lib.uni-corvinus.hu/3088/1/BCE_MNB_Medvegyev.pdf)  <br />
 [Egy jó videó a centrális határeloszlás-tételről](https://www.youtube.com/watch?v=zeJD6dqJ5lo&t=47s) <br />
 [Egy jó videó a konvolúcióról](https://www.youtube.com/watch?v=KuXjwB4LzSA) <br />
@@ -49,7 +49,7 @@ Tóth Dániel István (e-mail: daniel.toth6@stud.uni-corvinus.hu) <br />
 
 ## **Corvinus AÉM:**
    
-[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. november 12.)
+[2024-2027](https://drive.google.com/file/d/1kMTeapJl7Amr9PcdlZrQ5PQsTBzFP_bh/view?usp=sharing) (Utolsó frissítés: 2025. november 26.)
 
    <br />
 
